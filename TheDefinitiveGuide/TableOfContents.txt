@@ -1,2 +1,7 @@
 
-Chapter07: Arrays
+Chapter07: Arrays(数组)
+
+    7.8 数组方法
+        7.8.1 join()
+        7.8.2 reverse()
+        7.8.3 sort()
